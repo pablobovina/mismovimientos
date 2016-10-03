@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5e32d465b36abe9cc42bceaacf8ffca53a7b4824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_2f28106664675b1922faad4582af049a6fc77a1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_a7a98dc8473eb9c89e9b71769120a5da89a4ce9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_0315d2c3d61edcc351bfbc084504e07a0e2ae4bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_877102a0472898447e2bdb578d3e736141a78b3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_d434be91b3cd0492c872e149b5cd32c693788d23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_443361ecd14ec9dc727808d4206b30e80269915b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_7e2e4037c7fcea767fd5c915f63b105faec49506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_b9aff50e0ba60934a08029835b0d87ef87318130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_2dc16c5c0f47bde1ce475b8aa5d4d8c4d5b6e215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_edcd6b2d3154266909b50c4549b7754413a3dfb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_28cccba40daedb230305b8177ecacea6481eb65a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_51bd101544af40efa0d315760c7c712465b16bd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_821fd5774f8568e6cd35d21894dd5c67876a0dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_61712cc6406e3fe84c2c0dbf4d95ec497f450536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_d593432daf4e9bb8917e98a4fe209b4c84895ea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/pablo/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_207f0cc141860256056ceb5ba21bcf3fdccffa5a.jar" />
+    </item>
+
+</items>
